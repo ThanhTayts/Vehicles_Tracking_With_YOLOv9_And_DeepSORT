@@ -32,15 +32,9 @@ python vehicles_tracking.py
 
 
 ### Results
-<table>
-  <tr>
-    <td>YOLOv9-c Vehicles Tracking</td>
-  </tr>
-  <tr>
-    <video src="/home/asus/Videos/simplescreenrecorder.mp4" width="320" height="240" controls></video>
+https://github.com/ThanhTayts/Vehicles_Tracking_With_YOLOv9_And_DeepSORT/assets/92384494/9a8754f0-9dfb-4345-a086-c9ef95cc23e4
 
-  </tr>
- </table>
+
 
 ### References
 - https://github.com/nwojke/deep_sort
